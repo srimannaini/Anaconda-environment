@@ -4,3 +4,5 @@ In this lesson, you will acquire the ability to use Anaconda to manage packages 
 Install and navigate through the Anaconda
 Download Python packages in the terminal/Anaconda prompt.
 Setup and manage one or more environments
+
+https://www.youtube.com/watch?v=KjwNFwU_krk
