@@ -5,4 +5,4 @@ Install and navigate through the Anaconda
 Download Python packages in the terminal/Anaconda prompt.
 Setup and manage one or more environments
 
-https://www.youtube.com/watch?v=KjwNFwU_krk
+https://djangocentral.com/how-to-a-create-virtual-environment-for-python/
